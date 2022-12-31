@@ -1,4 +1,10 @@
 # Recording of dishes
+## Contributor
+[Zhirong Chen](https://github.com/rong-hash)
 
-This is a recording for cooking dishes.
+## Content
+This is a recording for cooking dishes, ranging from Western, indian, and Chinese dishes. 
+
+## Language
+Chinese and English
 
